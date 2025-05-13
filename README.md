@@ -1,12 +1,12 @@
-# uts-mutya# Hi there 👋🏼 I'm Zulfan Sahila Akmalana
+# uts-mutya# Hi there 👋🏼 I'm mutya faraaaa
 ## About me
 - 🔭 I'm currently in high school
 - 💬 Ask me about anything
-- 📫 How to reach me: akmalanasahil@gmail.com, [Instagram](https://www.instagram.com/mezlpn), or [Telegram](https://t.me/kuching_uchuu)
+- 📫 How to reach me:   mutyafaradila4@gmail.com, [Instagram](https://www.instagram.com/mutyafaraaa), or [Telegram](https://t.me/f)
 ## Education
 
-#### 1. [SMP Daarul Quran](https://www.instagram.com/daquungaran/) | Semarang `2019-2022`
-- Member of Language Advisory Council ([LAC](https://www.instagram.com/lac.daqu.jateng/))
+#### 1. [SMA SAINS QURAN ](https://www.instagram.com/smasainsquran/) | yogyakarta `2019-2022`
+- Member of Language Advisory Council ([LAC](https://www.instagram.com/lac.smasains.jateng/))
 - Computer Laboratory Assistant
 
 #### 2. [SMA Sains Al-Quran](https://www.instagram.com/smasainsalquran/) | Yogyakarta `2022-now`
@@ -26,12 +26,12 @@
 <br />
 <br />
 <p align="left">
-<a href="https://github.com/zulfanakmal">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fahmimna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/mutyaf">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mtyna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
----
+--
 
 ### Connect with me:
 
@@ -47,6 +47,14 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/mazlpn/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/mezlpn/#gh-dark-mode-only)
+# Proyek mutya faraa
+
+Selamat datang di repositori ini!
+
+## https://drive.google.com/file/d/1wwK6lAWJ4RDCfT6WlZXU3px44QLfcU3T/view?usp=sharing
+
+![Ini saya](assets/foto.jpg)
+
 
 
 
